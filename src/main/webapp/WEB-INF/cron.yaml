@@ -1,0 +1,4 @@
+cron:
+- description: "Display the message"
+  url: /DisplayServlet
+  schedule: every 1 mins
